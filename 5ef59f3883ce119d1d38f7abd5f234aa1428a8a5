@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH//8dk\u003d",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 376,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2012-11-01T18:32:42Z",
+      "side": 1,
+      "message": "export_includes is a file.",
+      "revId": "5ef59f3883ce119d1d38f7abd5f234aa1428a8a5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
